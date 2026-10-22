@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/prospr/integrations
+- https://n8n.io/integrations/prospr/
+- https://composio.dev/toolkits/prospr
+- https://monid.ai/tools/prospr
+checked:
+- https://composio.dev/toolkits/prospr
+- https://monid.ai/tools/prospr
+- https://n8n.io/integrations/prospr/
+- https://zapier.com/apps/prospr/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

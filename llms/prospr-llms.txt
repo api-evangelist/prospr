@@ -1,0 +1,327 @@
+# Help center
+
+> Find answers to your questions
+
+## Managing Your Prospr Account > Joining Your Team on Prospr
+
+- [Downloading and Installing the Prospr at Work Mobile App](https://help.prospr.work/en/articles/290-downloading-and-installing-the-prospr-at-work-mobile-app): We have (free) apps for both iOS and Android devices, including iPads and tablets.
+- [Accepting Your Prospr Invite](https://help.prospr.work/en/articles/291-accepting-your-prospr-invite): You have an invitation for Prospr. Now what?
+- [Completing Your Prospr Profile](https://help.prospr.work/en/articles/292-completing-your-prospr-profile): Just a bit of information to maximize your Prospr experience
+- [Request to Join Your Company on Prospr](https://help.prospr.work/en/articles/293-request-to-join-your-company-on-prospr): If your company uses Prospr and you haven't received an invitation yet, you can search for your manager and request to join their team directly from the Prospr at Work app.
+
+## Managing Your Prospr Account > Your Prospr Account
+
+- [How to Update Your Personal Information](https://help.prospr.work/en/articles/294-how-to-update-your-personal-information): Set or make updates to your name, legal name, email, phone number, birthday, gender, and language preferences.
+- [Customizing Your Prospr Notification Preferences](https://help.prospr.work/en/articles/295-customizing-your-prospr-notification-preferences): Fine tune how you receive Prospr information
+- [Managing Your Phone's Notification Settings](https://help.prospr.work/en/articles/296-managing-your-phone-s-notification-settings): Where to check if you aren't getting the notifications you expect
+- [Adding or Updating Your Availability](https://help.prospr.work/en/articles/297-adding-or-updating-your-availability): Set or update your weekly availability
+- [Syncing Your Work Calendar to Your Personal Calendar](https://help.prospr.work/en/articles/298-syncing-your-work-calendar-to-your-personal-calendar): Keep your Prospr schedule in sync with your personal calendar.
+- [How to Notify Your Team Members You're "Away"](https://help.prospr.work/en/articles/299-how-to-notify-your-team-members-you-re-away): Do not disturb, away, and availability settings
+- [Why Prospr Needs Location Access (and How to Allow It)](https://help.prospr.work/en/articles/481-why-prospr-needs-location-access-and-how-to-allow-it): Learn how to check and modify Prospr's permissions to use your phone or browser location
+- [Adding Required or Requested Documents](https://help.prospr.work/en/articles/502-adding-required-or-requested-documents): Learn how to upload important employment documents requested by your workplace
+- [Customizing Your Default Home Screen](https://help.prospr.work/en/articles/512-customizing-your-default-home-screen): Learn how to set your preferred menu as the screen that opens first when you launch the app.
+
+## Managing Your Prospr Account > Login & Password Help
+
+- [How to Modify Your Password If You’re Logged In](https://help.prospr.work/en/articles/300-how-to-modify-your-password-if-you-re-logged-in): Updating your password in-app
+- [Forgotten/Reset Password Instructions](https://help.prospr.work/en/articles/301-forgottenreset-password-instructions): Can't get into Prospr? Reset your password here.
+
+## Starting a New Prospr Workspace > Getting Started
+
+- [Understanding the Configuration Fundamentals in Prospr](https://help.prospr.work/en/articles/302-understanding-the-configuration-fundamentals-in-prospr): Understanding how Prospr fits together will help you master your new account in no time.
+- [Branding Your Prospr Workspace!](https://help.prospr.work/en/articles/303-branding-your-prospr-workspace): Customize Prospr to look and feel like your brand
+- [Adding Locations to Prospr](https://help.prospr.work/en/articles/304-adding-locations-to-prospr): Use Locations for physical locations and to segment communication by other groups
+- [Creating and Using Teams in Prospr](https://help.prospr.work/en/articles/305-creating-and-using-teams-in-prospr): Build Teams to schedule the right people to the right shifts
+- [Creating and Using Rooms in Prospr](https://help.prospr.work/en/articles/306-creating-and-using-rooms-in-prospr): Build Rooms to use with scheduling
+
+## Starting a New Prospr Workspace > Workspace Settings
+
+- [Turning Features On and Off](https://help.prospr.work/en/articles/307-turning-features-on-and-off): Make changes to the Prospr modules your team uses
+- [Restricting Personal Information](https://help.prospr.work/en/articles/308-restricting-personal-information): Privacy for team member information
+- [Pay Rate Visibility](https://help.prospr.work/en/articles/309-pay-rate-visibility): See and change who can view pay rate information
+- [Timezone Settings](https://help.prospr.work/en/articles/310-timezone-settings): Controls for account timezone
+- [Turning Your Directory On and Off](https://help.prospr.work/en/articles/311-turning-your-directory-on-and-off): Determine if the team can access a directory of other team members and locations
+- [Enabling or Restricting Master View](https://help.prospr.work/en/articles/312-enabling-or-restricting-master-view): Set Master View schedule visibility
+- [Temperature Unit Settings (Farenheit or Celcius)](https://help.prospr.work/en/articles/313-temperature-unit-settings-farenheit-or-celcius): Configure temperature unit settings for weather displays
+- [Permissions for Custom Group Creation](https://help.prospr.work/en/articles/470-permissions-for-custom-group-creation): Determine which roles in your Prospr account can create new groups
+
+## Starting a New Prospr Workspace > Billing
+
+- [Managing Your Payment Information](https://help.prospr.work/en/articles/314-managing-your-payment-information): Add or update a credit card for your Prospr subscription
+- [Viewing Past and Current Invoices](https://help.prospr.work/en/articles/315-viewing-past-and-current-invoices): See your Prospr billing history
+
+## User Management > Adding & Disabling Users
+
+- [Inviting New Users](https://help.prospr.work/en/articles/316-inviting-new-users): Getting new users into Prospr
+- [Adding or Updating a User's Locations + Teams](https://help.prospr.work/en/articles/317-adding-or-updating-a-user-s-locations-teams): Use Locations + Teams to set a user's default chat groups and shift eligibility
+- [Canceling a Prospr Invite](https://help.prospr.work/en/articles/318-canceling-a-prospr-invite): Need to retract someone you've added to Prospr?
+- [How to Bulk Upload Multiple Users](https://help.prospr.work/en/articles/319-how-to-bulk-upload-multiple-users): Adding a new location or a cohort of new hires? We've got you covered.
+- [How to Disable or Re-enable a User's Account](https://help.prospr.work/en/articles/320-how-to-disable-or-re-enable-a-user-s-account): Schedule a termination date or change a user's account status
+
+## User Management > User Details
+
+- [The Details Tab](https://help.prospr.work/en/articles/321-the-details-tab): Information on each user's Prospr account, employment details, and personal details
+- [Configure Team Member Availability](https://help.prospr.work/en/articles/324-configure-team-member-availability): Manage availability on behalf of your team members
+- [Birthday and Workaversay Celebrations](https://help.prospr.work/en/articles/322-birthday-and-workaversay-celebrations): Go ahead, celebrate a little.
+- [Managing Multiple Pay Rates](https://help.prospr.work/en/articles/323-managing-multiple-pay-rates): How to use multiple pay rates per user
+- [Team Member Profile Notes](https://help.prospr.work/en/articles/500-team-member-profile-notes): Add notes to a team member's profile with visibility permissions
+- [User Documents](https://help.prospr.work/en/articles/501-user-documents): Learn how to view and manage user documents
+
+## User Management > User Management FAQs
+
+- [Understanding Prospr Role Types](https://help.prospr.work/en/articles/325-understanding-prospr-role-types): All about permissions and roles in Prospr
+- [Can an Admin/Manager Change a Team Member's Phone, Email, or Password for Them?](https://help.prospr.work/en/articles/326-can-an-adminmanager-change-a-team-member-s-phone-email-or-password-for-them): Who can update a user's profile information
+- [How do I Find Disabled Users?](https://help.prospr.work/en/articles/327-how-do-i-find-disabled-users): Try this if you receive an error that a user already exists
+- [How to Audit Your Active Users & Details](https://help.prospr.work/en/articles/466-how-to-audit-your-active-users-and-details): Learn how to export a list of your Prospr users
+
+## Messenger > Messaging on Prospr
+
+- [Starting a 1:1 Conversation](https://help.prospr.work/en/articles/328-starting-a-11-conversation): Prospr messenger for new 1:1 conversation
+- [Sharing a Photo, File, Video, or Poll In Chat](https://help.prospr.work/en/articles/329-sharing-a-photo-file-video-or-poll-in-chat): Using media in messenger
+- [How to 'Reply To' a Message In a Group](https://help.prospr.work/en/articles/330-how-to-reply-to-a-message-in-a-group): Prospr's version of message threads
+- [How to Delete Your Own Messages](https://help.prospr.work/en/articles/331-how-to-delete-your-own-messages): Typo? Wrong thread? Remove your message from chat.
+- [Creating a New Custom Group Chat](https://help.prospr.work/en/articles/332-creating-a-new-custom-group-chat): Build a chat with specific team members
+- [How to Add/Remove Users from a Custom Group Chat](https://help.prospr.work/en/articles/333-how-to-addremove-users-from-a-custom-group-chat): Manage the members of your custom chat groups
+- [How to Add/Remove Users from a Team/Location Chat](https://help.prospr.work/en/articles/334-how-to-addremove-users-from-a-teamlocation-chat): Find how to control members of Prospr's default chat groups
+- [How to Mute, Archive, and Leave a Chat](https://help.prospr.work/en/articles/335-how-to-mute-archive-and-leave-a-chat): Manage the chats coming to your inbox
+- [How do I use Broadcast Messaging?](https://help.prospr.work/en/articles/336-how-do-i-use-broadcast-messaging): Send a bcc chat to the whole team or group
+- [How to Review Chat Read Receipts](https://help.prospr.work/en/articles/337-how-to-review-chat-read-receipts): Read receipts are visible on messages that you have sent in groups and 1:1 conversations.
+- [How to 'Reply Privately' to a Group Message](https://help.prospr.work/en/articles/338-how-to-reply-privately-to-a-group-message): Learn how to send a private reply to a message owner from a group message
+- [How to 'Flag' a Message](https://help.prospr.work/en/articles/339-how-to-flag-a-message): Learn how to remove a specific message from Prospr chat
+- [Resolving Flagged Messages](https://help.prospr.work/en/articles/340-resolving-flagged-messages): Something flagged by mistake? Undo with ease.
+- [Custom and System-based Group Chat](https://help.prospr.work/en/articles/341-custom-and-system-based-group-chat): Learn about the different chat groups types
+- [How to 'Pin' Message Threads](https://help.prospr.work/en/articles/342-how-to-pin-message-threads): Pin important and frequent threads to the top of your Chat inbox.
+- [Navigating Your Chat Inbox](https://help.prospr.work/en/articles/480-navigating-your-chat-inbox): Learn how to access and search your chat threads
+- [How to Send a Message at a Future Time](https://help.prospr.work/en/articles/483-how-to-send-a-message-at-a-future-time): Want to tee up a message to be sent later? Learn how to schedule it!
+- [How to Use the Saved Messages Feature](https://help.prospr.work/en/articles/484-how-to-use-the-saved-messages-feature): Save and manage messages in your inbox that you wish to come back to
+- [How to Create an Event with a Chat Group](https://help.prospr.work/en/articles/487-how-to-create-an-event-with-a-chat-group): Use a chat group to create and share events with your team
+- [How to Delete a Custom Group Chat in Prospr](https://help.prospr.work/en/articles/509-how-to-delete-a-custom-group-chat-in-prospr): Learn how to permanently delete a custom group chat in Prospr when it is no longer needed.
+
+## Messenger > Messaging FAQs
+
+- [How Can I See Who Is in a Group?](https://help.prospr.work/en/articles/343-how-can-i-see-who-is-in-a-group): View who is in each of your messaging groups
+- [Why Aren't the Users I Expect in My Chat?](https://help.prospr.work/en/articles/344-why-aren-t-the-users-i-expect-in-my-chat): Solve the case of the missing chat user(s)
+- [As a Manager or Admin, Can I See Chats I'm Not In?](https://help.prospr.work/en/articles/345-as-a-manager-or-admin-can-i-see-chats-i-m-not-in): Chat data outside your threads
+- [Can I disable automated Location and/or Team chats?](https://help.prospr.work/en/articles/485-can-i-disable-automated-location-andor-team-chats): Manage custom rules around system-managed chat groups
+
+## Scheduling for Admins & Managers > Building Schedules in Prospr
+
+- [Your Scheduling Toolbox](https://help.prospr.work/en/articles/406-your-scheduling-toolbox): The Scheduling Toolbox will be crucial in creating your schedule quickly and efficiently
+- [How to Build a Template](https://help.prospr.work/en/articles/407-how-to-build-a-template): Create templates that you can use later to generate lots of shifts quickly, with team and room assignments already filled in!
+- [Assigning Team Members to Shifts](https://help.prospr.work/en/articles/408-assigning-team-members-to-shifts): Learn to assign team members to open shifts in your Planner
+- [How to See Approved Time Off](https://help.prospr.work/en/articles/409-how-to-see-approved-time-off): Learn to easily avoid scheduling team member's with approved time off
+- [How to Use Auto-Assign](https://help.prospr.work/en/articles/410-how-to-use-auto-assign): Auto-assign shifts based on team member’s Locations, Teams, Availability, and individual hours targets
+- [Adjusting Your Date Range](https://help.prospr.work/en/articles/411-adjusting-your-date-range): Setting the right date range for your schedule activities
+- [Adjusting Your Scheduling View](https://help.prospr.work/en/articles/412-adjusting-your-scheduling-view): Toggle between available schedule-building formats
+- [Forecasting Your Schedule](https://help.prospr.work/en/articles/413-forecasting-your-schedule): Predict payroll costs while builing schedules
+- [Adding Shift Notes for a Single Shift](https://help.prospr.work/en/articles/414-adding-shift-notes-for-a-single-shift): Learn to add a custom note to one shift
+- [Adding Shift Tasks for a Single Shift](https://help.prospr.work/en/articles/415-adding-shift-tasks-for-a-single-shift): Learn to add shift tasks to one shift
+- [Uploading Your Schedule](https://help.prospr.work/en/articles/416-uploading-your-schedule): Learn to take an external .csv to add bulk shifts to Prospr
+- [Publishing to the Shift Pool](https://help.prospr.work/en/articles/417-publishing-to-the-shift-pool): Add shifts for eligible team members to see and pick up
+- [How to Publish Your Schedule (Individual Shifts & Complete Schedule)](https://help.prospr.work/en/articles/418-how-to-publish-your-schedule-individual-shifts-and-complete-schedule): Publish your schedule to make it available to the team
+- [How to Clone Your Schedule](https://help.prospr.work/en/articles/419-how-to-clone-your-schedule): Copy scheduling periods you've already built to the future to make repeating schedules a breeze
+- [Cloning an Individual Shift](https://help.prospr.work/en/articles/420-cloning-an-individual-shift): Use the details of one shift to clone to the future
+- [Viewing Shift History](https://help.prospr.work/en/articles/421-viewing-shift-history): Use shift history to see who made, picked up, released, and changed shifts
+- [Grid View in the Scheduling Planner](https://help.prospr.work/en/articles/422-grid-view-in-the-scheduling-planner): Get to know the scheduling controls and functions for the grid view
+- [Gantt View in the Scheduling Planner](https://help.prospr.work/en/articles/423-gantt-view-in-the-scheduling-planner): Get to know the scheduling controls and functions for the gantt view
+- [How to Filter to Unassigned/Unpublished Shifts](https://help.prospr.work/en/articles/424-how-to-filter-to-unassignedunpublished-shifts): Finding gaps in your unpublished schedules
+- [How to Filter for Teams and Team Members](https://help.prospr.work/en/articles/425-how-to-filter-for-teams-and-team-members): Look at your schedule by team or individual team member
+- [How to Delete a Schedule](https://help.prospr.work/en/articles/426-how-to-delete-a-schedule): If you need to start from scratch, use this guide to learn how to delete schedules
+- [Adding Single Shifts](https://help.prospr.work/en/articles/427-adding-single-shifts): Learn to add single shifts in grid, gantt, and master view
+- [Unassigning Team Members from Shifts](https://help.prospr.work/en/articles/428-unassigning-team-members-from-shifts): Learn to remove individuals from shifts
+- [How to Unpublish a Schedule](https://help.prospr.work/en/articles/429-how-to-unpublish-a-schedule): Remove shifts from a published schedule
+- [Using Rooms When Scheduling](https://help.prospr.work/en/articles/430-using-rooms-when-scheduling): Learn to assign rooms to your shifts
+- [How to Add a Shift from the Mobile App](https://help.prospr.work/en/articles/431-how-to-add-a-shift-from-the-mobile-app): Add one-off shifts via mobile master view
+- [How to Make Bulk Edits Shifts](https://help.prospr.work/en/articles/473-how-to-make-bulk-edits-shifts): Learn how to change shifts in bulk on the Planner
+
+## Scheduling for Admins & Managers > Planner Settings
+
+- [Managing Overtime Settings](https://help.prospr.work/en/articles/432-managing-overtime-settings): Configure Prospr to adhere to your overtime policies
+- [Setting Scheduling Recommendations Rules](https://help.prospr.work/en/articles/433-setting-scheduling-recommendations-rules): Configure Prospr to honor your scheduling preferences
+- [Scheduling by Seniority](https://help.prospr.work/en/articles/434-scheduling-by-seniority): Learn how how to set up your workspace to schedule by seniority, and what it will look like
+- [Setting Shift Notification Settings](https://help.prospr.work/en/articles/435-setting-shift-notification-settings): Manage settings for team shift reminders
+- [Setting Shift Swap Rules](https://help.prospr.work/en/articles/436-setting-shift-swap-rules): Determine the approvals required for shift changes
+- [Setting the Day You Start Your Scheduling Week](https://help.prospr.work/en/articles/437-setting-the-day-you-start-your-scheduling-week): Determine which day of the week you’d like to lead in your scheduling
+
+## Scheduling for Admins & Managers > Shift Tools After Publishing
+
+- [Approving or Denying Shift Switches, Pickups and Time Off](https://help.prospr.work/en/articles/438-approving-or-denying-shift-switches-pickups-and-time-off): Learn how to manage pending shift switches, pickups, and time off requests
+- [How to Use Your Shift Monitor](https://help.prospr.work/en/articles/439-how-to-use-your-shift-monitor): Your one stop shop to monitoring shift activity for the current day
+- [Using the "Shifts at Risk" Widget](https://help.prospr.work/en/articles/440-using-the-shifts-at-risk-widget): Where to monitor and notify on shifts that need coverage
+- [Using the Schedule Activity Log](https://help.prospr.work/en/articles/441-using-the-schedule-activity-log): An exportable, in-depth record of all schedule changes
+- [How to Edit a Shift on Mobile](https://help.prospr.work/en/articles/442-how-to-edit-a-shift-on-mobile): Manage shift changes from mobile
+- [Using the Master View](https://help.prospr.work/en/articles/443-using-the-master-view): See who you are working with with Master View
+- [Using the Time Machine (Admin Only)](https://help.prospr.work/en/articles/444-using-the-time-machine-admin-only): Use the time machine if you need to restore a previous schedule version
+- [Viewing a Single User's Schedule](https://help.prospr.work/en/articles/445-viewing-a-single-user-s-schedule): Learn how to look at one user's schedule as an Admin or Manager
+- [*New* Shift Pickup Queue](https://help.prospr.work/en/articles/478-new-shift-pickup-queue): All about managing the shift pickup queue
+
+## Scheduling for Admins & Managers > Scheduling FAQs
+
+- [How Far Back Does Prospr Store Scheduling Data?](https://help.prospr.work/en/articles/446-how-far-back-does-prospr-store-scheduling-data): Schedule history data retention
+- [Help! I Accidentally Deleted My Schedule. Now What?](https://help.prospr.work/en/articles/447-help-i-accidentally-deleted-my-schedule-now-what): Learn how to retrieve a schedule
+- [My Manager Can't Access the Planner](https://help.prospr.work/en/articles/448-my-manager-can-t-access-the-planner): Resolving issues for managers who don't see scheduling tools
+- [I Don't See the Location I'm Scheduling for in Planner](https://help.prospr.work/en/articles/449-i-don-t-see-the-location-i-m-scheduling-for-in-planner): Missing location(s) for scheduling
+- [Will My Team Be Notified When I Publish?](https://help.prospr.work/en/articles/450-will-my-team-be-notified-when-i-publish): Team notifications for shifts added to schedule
+- [Do Incomplete Shift Tasks Carry Over to the Next Shift?](https://help.prospr.work/en/articles/451-do-incomplete-shift-tasks-carry-over-to-the-next-shift): What happens to incomplete shift tasks
+- [Can I Download My Schedule From Prospr?](https://help.prospr.work/en/articles/467-can-i-download-my-schedule-from-prospr): Learn how to access schedule export(s)
+
+## Team Members: My Schedule & Attendance > My Schedule
+
+- [Viewing Your Schedule in Prospr](https://help.prospr.work/en/articles/452-viewing-your-schedule-in-prospr): Access your upcoming shifts and time off in your schedule section
+- [How to Confirm Your Shift](https://help.prospr.work/en/articles/453-how-to-confirm-your-shift): Same-day shift confirmations
+- [How to Switch Shifts](https://help.prospr.work/en/articles/454-how-to-switch-shifts): Find coverage when you need it, straight from your Prospr schedule
+- [How to Pick Up Shifts](https://help.prospr.work/en/articles/455-how-to-pick-up-shifts): Finding and adding available shifts
+- [How to See Who You're Working With](https://help.prospr.work/en/articles/456-how-to-see-who-you-re-working-with): Learn how to find who else is working with you
+- [Travel Time](https://help.prospr.work/en/articles/457-travel-time): Learn how Prospr helps calculate your estimated travel time
+
+## Team Members: My Schedule & Attendance > My Attendance
+
+- [How to Clock-In on Prospr](https://help.prospr.work/en/articles/458-how-to-clock-in-on-prospr): Learn how to use Prospr to clock in for your shift
+- [How to Clock-Out / Re-Open Your Time Card](https://help.prospr.work/en/articles/459-how-to-clock-out-re-open-your-time-card): Learn to finish your time card for the day
+- [Taking Breaks on Prospr](https://help.prospr.work/en/articles/460-taking-breaks-on-prospr): Learn to log and clock out for your breaks
+- [How to View Your Time Cards](https://help.prospr.work/en/articles/461-how-to-view-your-time-cards): Learn how to see your past time punch information (or edit, if allowed)
+- [Adding a Note for Your Time Card](https://help.prospr.work/en/articles/462-adding-a-note-for-your-time-card): Learn how to leave notes on your shift
+- [How to Submit Time Off Requests](https://help.prospr.work/en/articles/463-how-to-submit-time-off-requests): Learn how to ask for time off
+- [Why do I have a geo-fence warning?](https://help.prospr.work/en/articles/482-why-do-i-have-a-geo-fence-warning): What geo-fence warnings mean and how to resolve them
+- [How to Clock-In on Prospr without a Shift Scheduled](https://help.prospr.work/en/articles/507-how-to-clock-in-on-prospr-without-a-shift-scheduled): Learn how to use Prospr to clock in for your shift
+
+## Team Members: My Schedule & Attendance > Scheduling and Time & Attendance FAQs
+
+- [How Do I Know When a Swap or Time Off Request Has Been Denied or Approved?](https://help.prospr.work/en/articles/464-how-do-i-know-when-a-swap-or-time-off-request-has-been-denied-or-approved): Learn how to see info on schedule requests
+- [Why Don't I See the Same Shifts in the Pool as My Co-Workers?](https://help.prospr.work/en/articles/465-why-don-t-i-see-the-same-shifts-in-the-pool-as-my-co-workers): Learn how shifts show up in your shift pool
+
+## Ticketing > Creating & Managing Tickets
+
+- [Customizing Your Ticket Types (Admins Only)](https://help.prospr.work/en/articles/346-customizing-your-ticket-types-admins-only): Build and categorize the ticket types available to your team
+- [How to Create a New Ticket](https://help.prospr.work/en/articles/351-how-to-create-a-new-ticket): Logging a ticket for your manager in Prospr - for everyone!
+- [How to Update a Ticket Status](https://help.prospr.work/en/articles/347-how-to-update-a-ticket-status): Keep your open tickets moving
+- [How to Clone a Ticket](https://help.prospr.work/en/articles/494-how-to-clone-a-ticket): Keep your open tickets moving
+- [How to Mute a Ticket](https://help.prospr.work/en/articles/348-how-to-mute-a-ticket): For when there may be too much noise on one of your tickets
+- [Ticket History](https://help.prospr.work/en/articles/349-ticket-history): For a comprehensive overview of any Prospr ticket
+- [Your Ticket Inbox](https://help.prospr.work/en/articles/350-your-ticket-inbox): Learn how to find your tickets, assign to someone, add notes, change status, and more
+- [How to Export Tickets](https://help.prospr.work/en/articles/491-how-to-export-tickets): Learn how to export ticket details
+- [How to Share Tickets Externally](https://help.prospr.work/en/articles/492-how-to-share-tickets-externally): Provide ticket access to third party contacts
+- [Working with Tickets External to Prospr](https://help.prospr.work/en/articles/493-working-with-tickets-external-to-prospr): Learn how you can contribute to Prospr tickets that have been shared with you
+
+## Ticketing > Ticketing FAQs
+
+- [Who Can Create Tickets?](https://help.prospr.work/en/articles/352-who-can-create-tickets): Learn which role types in Prospr may create new tickets
+- [Who Can See Tickets?](https://help.prospr.work/en/articles/353-who-can-see-tickets): Ticket visibility for the ticket queue
+
+## Joint Missions > Managing Joint Missions
+
+- [What Is a Joint Mission?](https://help.prospr.work/en/articles/354-what-is-a-joint-mission): Explore the key to putting teamwork on autopilot
+- [Joint Mission Folders](https://help.prospr.work/en/articles/355-joint-mission-folders): Keep multiple missions organized by Team, Location, or workflow
+- [How Do I Make a Joint Mission?](https://help.prospr.work/en/articles/356-how-do-i-make-a-joint-mission): Step-by-step instructions for getting missions in the hands of the team
+- [Cloning a Joint Mission](https://help.prospr.work/en/articles/357-cloning-a-joint-mission): Use the foundations of existing missions to build more
+- [Joint Mission Role Types](https://help.prospr.work/en/articles/358-joint-mission-role-types): Permissions for mission controls
+- [Pause or Archive a Joint Mission](https://help.prospr.work/en/articles/359-pause-or-archive-a-joint-mission): How to keep future missions from launching
+- [Performance Management Through Missions](https://help.prospr.work/en/articles/360-performance-management-through-missions): Joint Missions are a two-way communication street
+- [Ended Mission Data](https://help.prospr.work/en/articles/361-ended-mission-data): Monitor team performance with historical mission information
+- [How Do I Make and Launch an Occurrence-Based Mission?](https://help.prospr.work/en/articles/362-how-do-i-make-and-launch-an-occurrence-based-mission): For missions that don't happen on a totally predicable schedule, but need to be consistent nonetheless
+
+## Joint Missions > Mission FAQs
+
+- [How Do I Contribute to a Joint Mission?](https://help.prospr.work/en/articles/363-how-do-i-contribute-to-a-joint-mission): Learn how to find your assigned Missions and some tips to make the most of them
+- [How Do I Know If I Have a Mission?](https://help.prospr.work/en/articles/364-how-do-i-know-if-i-have-a-mission): Where to find mission objectives to tackle
+
+## Resources > Creating Resources
+
+- [Organizing Your Resources - Categories, Folders, & Articles](https://help.prospr.work/en/articles/365-organizing-your-resources-categories-folders-and-articles): Build the page tree for your team wiki
+- [Creating a Resource Article](https://help.prospr.work/en/articles/366-creating-a-resource-article): Now, for the resource content!
+- [Article Tips: Embedding Links](https://help.prospr.work/en/articles/367-article-tips-embedding-links): Add links to your resource articles
+- [Article Tips: Embedding Video](https://help.prospr.work/en/articles/368-article-tips-embedding-video): Add video directly to resource articles
+- [Article Tips: Attachments & PDFs](https://help.prospr.work/en/articles/369-article-tips-attachments-and-pdfs): Using attachments and files with resource articles is a breeze
+- [Article Tips: Setting Your Audience](https://help.prospr.work/en/articles/370-article-tips-setting-your-audience): Determine who should be able to see each resource
+- [Enabling & Viewing Resource Read Receipts](https://help.prospr.work/en/articles/371-enabling-and-viewing-resource-read-receipts): How to know which articles have been read by the team
+- [Importing Resources from a Linked Workspace](https://help.prospr.work/en/articles/372-importing-resources-from-a-linked-workspace): Pull and share resources across workspaces for consistency
+- [Saving an Article as a Draft](https://help.prospr.work/en/articles/373-saving-an-article-as-a-draft): Not ready to share what you've put together with the team just yet? No stress.
+
+## Resources > Using Resources
+
+- [Searching in Resources](https://help.prospr.work/en/articles/374-searching-in-resources): How to find what you're looking for in resources
+- [How to Confirm a Read Receipt](https://help.prospr.work/en/articles/375-how-to-confirm-a-read-receipt): Confirm receipt of new reading material
+- [How to Find My Required Reading](https://help.prospr.work/en/articles/376-how-to-find-my-required-reading): Make sure you've handled all required reading
+- [Viewing Team Members' Assigned Resources](https://help.prospr.work/en/articles/377-viewing-team-members-assigned-resources): Where to find all of the read receipts for a specific user
+
+## Bulletins & Events > Managing Bulletins
+
+- [How to Create a Bulletin (Manager/Admin Only)](https://help.prospr.work/en/articles/378-how-to-create-a-bulletin-manageradmin-only): Posting to the virtual bulletin board
+- [Adding GIFs and Photos to Your Bulletin](https://help.prospr.work/en/articles/379-adding-gifs-and-photos-to-your-bulletin): Make each bulletin visually engaging
+- [Adding Video to Your Bulletin](https://help.prospr.work/en/articles/380-adding-video-to-your-bulletin): Use video to elevate your bulletin
+- [Segmenting a Bulletin by Location or Group](https://help.prospr.work/en/articles/381-segmenting-a-bulletin-by-location-or-group): Set the right audience for each bulletin
+- [Importing Bulletins from a Linked Workspace](https://help.prospr.work/en/articles/382-importing-bulletins-from-a-linked-workspace): Pull bulletin content across workspaces
+- [How to Edit or Delete a Published Bulletin](https://help.prospr.work/en/articles/383-how-to-edit-or-delete-a-published-bulletin): Typo? Update to the information you've already shared?
+- [How to View Poll Results in Bulletins](https://help.prospr.work/en/articles/384-how-to-view-poll-results-in-bulletins): Reviewing responses to bulletin polls
+- [How to Find and React/Comment on Bulletins](https://help.prospr.work/en/articles/385-how-to-find-and-reactcomment-on-bulletins): Locating and engaging with your team bulletins
+- [How to Delete a Bulletin Comment](https://help.prospr.work/en/articles/386-how-to-delete-a-bulletin-comment): Wrong place? Wrong time? Remove comments from bulletins.
+- [How to Create an Event with a Bulletin](https://help.prospr.work/en/articles/486-how-to-create-an-event-with-a-bulletin): Use a Bulletin to create and share events with your team
+- [Enable Bulletin Approval for Bulletin Posts](https://help.prospr.work/en/articles/489-enable-bulletin-approval-for-bulletin-posts): Learn how to enable the setting that requires Admin approval on Manager Bulletin posts
+- [How to use Bulletin Approval](https://help.prospr.work/en/articles/490-how-to-use-bulletin-approval): Learn how to use Bulletin Approval for your content
+
+## Bulletins & Events > Managing Events
+
+- [How to Create an Event with the Calendar (Admin/Manager)](https://help.prospr.work/en/articles/499-how-to-create-an-event-with-the-calendar-adminmanager): Create and manage company events from the
+
+## Bulletins & Events > Bulletin & Event FAQs
+
+- [How do I find or search company Bulletins?](https://help.prospr.work/en/articles/479-how-do-i-find-or-search-company-bulletins): Locating Bulletins and company news in Prospr
+- [How do I engage with company Bulletins?](https://help.prospr.work/en/articles/488-how-do-i-engage-with-company-bulletins): Tips on interacting with your company's Bulletins
+
+## Surveys
+
+- [Creating Surveys](https://help.prospr.work/en/articles/497-creating-surveys): Learn how to create scheduled surveys for your team
+- [Taking Surveys](https://help.prospr.work/en/articles/496-taking-surveys): Learn how to participate in surveys that have been assigned to you
+- [Accessing Survey Responses & Read Receipts](https://help.prospr.work/en/articles/498-accessing-survey-responses-and-read-receipts): Learn how to view survey logs, summaries, and content via csv
+
+## Time & Attendance > Time & Attendance Settings
+
+- [Customizing Open/Close Settings](https://help.prospr.work/en/articles/387-customizing-openclose-settings): Learn how to set clock in/out policies
+- [Setting Your Break Rules](https://help.prospr.work/en/articles/388-setting-your-break-rules): Determine break policies for Prospr to track
+- [Open/Close Checklists](https://help.prospr.work/en/articles/389-openclose-checklists): Configure checklists to accompany a user's clock in or out routine
+- [About Advanced Time Tracking](https://help.prospr.work/en/articles/495-about-advanced-time-tracking): New time tracking controls are here to simplify compliance for multi-state and multi-team workforces
+
+## Time & Attendance > Time & Attendance Reporting
+
+- [How to Run/Download a Time & Attendance Report](https://help.prospr.work/en/articles/391-how-to-rundownload-a-time-and-attendance-report): Where to get time punch records for payroll
+- [Creating a Retroactive Time Card](https://help.prospr.work/en/articles/392-creating-a-retroactive-time-card): Missed time punch? No problem.
+- [How to Edit a User's Time Card](https://help.prospr.work/en/articles/393-how-to-edit-a-user-s-time-card): Time card corrections
+- [Creating Custom Payroll Exports](https://help.prospr.work/en/articles/394-creating-custom-payroll-exports): Payroll-ready exports, that let you organize columns pre-download
+
+## Time & Attendance > Managing Time Off
+
+- [Creating Time Off Types](https://help.prospr.work/en/articles/395-creating-time-off-types): Customize time off types available to your team and policies for time off lead time
+- [How to Pull a Report of Time Off Requests](https://help.prospr.work/en/articles/397-how-to-pull-a-report-of-time-off-requests): Report access for time off records
+- [How to Approve, Reject, or Cancel a Time-Off Request](https://help.prospr.work/en/articles/398-how-to-approve-reject-or-cancel-a-time-off-request): Learn how to review, approve, reject, or cancel time-off requests to keep employee schedules accurate and up to date.
+
+## Time & Attendance > Time & Attendance FAQs
+
+- [Does My Team Need to Allow Location Sharing to Be Geo-Fenced?](https://help.prospr.work/en/articles/401-does-my-team-need-to-allow-location-sharing-to-be-geo-fenced): Geo-fence requirements
+- [How does the geo-fence work for clocking in?](https://help.prospr.work/en/articles/468-how-does-the-geo-fence-work-for-clocking-in): Learn how to interpret "Inside GeoFence" data in Prospr's time & attendance
+
+## General & FAQ
+
+- [How Do I Get in Touch With Team Prospr?](https://help.prospr.work/en/articles/402-how-do-i-get-in-touch-with-team-prospr): Prospr support
+- [Photos and Files Are Not Uploading to Prospr from My Phone](https://help.prospr.work/en/articles/403-photos-and-files-are-not-uploading-to-prospr-from-my-phone): Address issues with file and photo uploads
+- [How to Switch Between Prospr Workspaces](https://help.prospr.work/en/articles/405-how-to-switch-between-prospr-workspaces): How to swap across multiple Prospr accounts
+- [Can my team see people outside of their location?](https://help.prospr.work/en/articles/469-can-my-team-see-people-outside-of-their-location): Discover if Location Constraints are right for your team - and how to set them.
+- [Are Bulletins translated into Spanish?](https://help.prospr.work/en/articles/472-are-bulletins-translated-into-spanish): Bulletin content for multi-language support
+- [How to Set Up Quick Links in Prospr (Web App)](https://help.prospr.work/en/articles/510-how-to-set-up-quick-links-in-prospr-web-app): Learn how to create quick links in the Prospr web app for fast access to frequently used websites and resources.
+
+## Integrations > Mindbody </> Prospr
+
+- [How Does the MindBody Integration Work?](https://help.prospr.work/en/articles/404-how-does-the-mindbody-integration-work): All about Prospr </> MindBody
+
+## Integrations > Mariana Tek </> Prospr
+
+- [About the Mariana Tek Integration](https://help.prospr.work/en/articles/475-about-the-mariana-tek-integration): All about Prospr </> Mariana Tek integration
+- [Connecting Mariana Tek </> Prospr](https://help.prospr.work/en/articles/474-connecting-mariana-tek-lessgreater-prospr): Learn how to configure your Mariana Tek and Prospr accounts to sync instructor schedules
+- [Prospr </> Mariana Tek Data Mapping](https://help.prospr.work/en/articles/477-prospr-lessgreater-mariana-tek-data-mapping): Learn how to map staff, locations & rooms, and teams & class types
+
+## Integrations > Club Ready </> Prospr
+
+- [About the ClubReady Integration](https://help.prospr.work/en/articles/503-about-the-clubready-integration): All about the Prospr </> ClubReady integration
+
+## Prospr Insights
+
+- [Prospr Insights: Sub Coverage Report](https://help.prospr.work/en/articles/508-prospr-insights-sub-coverage-report): Learn how to navigate to and access the NEW! Sub Coverage Report in Prospr
